@@ -1,4 +1,4 @@
-![MasterHead](https://media.mehrnews.com/d/2020/02/24/3/3393137.jpg)
+![MasterHead](https://tipskomputer.net/wp-content/uploads/2018/03/komputer-Embedded-System-768x320.png)
 <h1 align="center">Hi 👋, I'm Mustafa Yer</h1>
 <h3 align="center">A passionate Embedded Software developer from Turkey</h3>
 
