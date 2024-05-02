@@ -1,5 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/C5612AQELFqgJ3xYSpg/article-cover_image-shrink_720_1280/0/1528507067531?e=2147483647&v=beta&t=WvETUCyxGgc8jicBG1N7jMD6Vc6OaFSiBu5UeuI4KN4)
-
+![MasterHead](https://media.mehrnews.com/d/2020/02/24/3/3393137.jpg)
 <h1 align="center">Hi 👋, I'm Mustafa Yer</h1>
 <h3 align="center">A passionate Embedded Software developer from Turkey</h3>
 
@@ -16,9 +15,3 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafayer&show_icons=true&locale=en&layout=compact" alt="mustafayer" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafayer&show_icons=true&locale=en" alt="mustafayer" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafayer&" alt="mustafayer" /></p>
